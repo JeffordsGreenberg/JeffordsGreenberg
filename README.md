@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Laura Jeffords Greenberg. 
 - 👀 I am a lawyer who uses GitHub at work. 
-- 🌱 I’m currently learning how to code. 
 
 <!---
 JeffordsGreenberg/JeffordsGreenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
